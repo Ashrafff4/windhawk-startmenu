@@ -8,7 +8,6 @@ The theme styles can also be imported manually. To do that, follow these steps:
 
 <details>
 <summary>Content to import (click to expand)</summary>
-  
 theme: ''
 disableNewStartMenuLayout: ''
 styleConstants:
