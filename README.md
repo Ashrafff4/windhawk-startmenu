@@ -11,7 +11,7 @@ The theme styles can also be imported manually. To do that, follow these steps:
 * Copy the content below to the text box and click "Save settings".
 
 <details>
-<summary>Content to import (click to expand)</summary>
+<summary>Tab Here For Code</summary>
 
 ```yaml
 theme: ''
