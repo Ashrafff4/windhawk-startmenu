@@ -1,3 +1,24 @@
+# LiquidGlass theme for Windows 11 Start Menu Styler
+
+**Author**: [PhantomNimbi](https://github.com/PhantomNimbi)
+
+![Screenshot](screenshot.png)
+
+> [!IMPORTANT]
+> This theme is designed for the [redesigned Windows 11 Start menu](https://microsoft.design/articles/start-fresh-redesigning-windows-start-menu/) that is gradually rolling out with the 25H2 update.
+
+> [!NOTE]
+> Support for the LiquidGlas themes is being dropped in favor of a new Fluid Glass theme being released by another author. Their theme is going in the direction this one was aimed and does a lot better than this one does. So, there won't be any future updates to the LiquidGlass themes going forward and they will eventually be removed.
+
+## Theme selection
+
+The theme is integrated into the mod and can be selected directly from the mod's
+settings:
+
+* Open the Windows 11 Start Menu Styler mod in Windhawk.
+* Go to the "Settings" tab.
+* Select the theme and save the settings.
+
 ## Manual installation
 
 The theme styles can also be imported manually. To do that, follow these steps:
@@ -8,8 +29,9 @@ The theme styles can also be imported manually. To do that, follow these steps:
 
 <details>
 <summary>Content to import (click to expand)</summary>
-  
-  theme: ''
+
+```yaml
+theme: ''
 disableNewStartMenuLayout: ''
 styleConstants:
   - Glass=<WindhawkBlur BlurAmount="5" TintColor="{ThemeResource SystemChromeMediumColor}" TintOpacity="0.1" />
@@ -613,5 +635,6 @@ webContentStyles:
       - 'color: white !important'
       - 'text-transform: none !important'
 webContentCustomJs: ''
+
 ```
 </details>
