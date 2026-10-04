@@ -8,7 +8,8 @@ The theme styles can also be imported manually. To do that, follow these steps:
 
 <details>
 <summary>Content to import (click to expand)</summary>
-theme: ''
+  
+  theme: ''
 disableNewStartMenuLayout: ''
 styleConstants:
   - Glass=<WindhawkBlur BlurAmount="5" TintColor="{ThemeResource SystemChromeMediumColor}" TintOpacity="0.1" />
@@ -612,3 +613,5 @@ webContentStyles:
       - 'color: white !important'
       - 'text-transform: none !important'
 webContentCustomJs: ''
+```
+</details>
