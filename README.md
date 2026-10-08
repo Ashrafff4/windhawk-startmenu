@@ -320,7 +320,7 @@ controlStyles:
       - CornerRadius=21
   - target: StartMenu.SearchBoxToggleButton#SearchBoxToggleButton > Grid > ContentPresenter#ContentPresenter > TextBlock#PlaceholderText
     styles:
-      - Text:=Applications
+      - Text:=Finder
       - FontSize=25
   - target: StartMenu.SearchBoxToggleButton#SearchBoxToggleButton > Grid > Image#SearchIconOff
     styles:
